@@ -1,0 +1,70 @@
+/**/_xdc_._sb96bs && _xdc_._sb96bs( {
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Anna Salai",
+               "short_name" : "Anna Salai",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vellore",
+               "short_name" : "Vellore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vellore",
+               "short_name" : "Vellore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tamil Nadu",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "632001",
+               "short_name" : "632001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Anna Salai, Vellore, Tamil Nadu 632001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.9138678,
+                  "lng" : 79.1324437
+               },
+               "southwest" : {
+                  "lat" : 12.8957793,
+                  "lng" : 79.12856140000001
+               }
+            },
+            "location" : {
+               "lat" : 12.9048736,
+               "lng" : 79.13205379999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9138678,
+                  "lng" : 79.1324437
+               },
+               "southwest" : {
+                  "lat" : 12.8957793,
+                  "lng" : 79.12856140000001
+               }
+            }
+         },
+         "place_id" : "ChIJj6WVPN84rTsRXRTLXUIwBoE",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}
+ )

@@ -1,0 +1,60 @@
+/**/_xdc_._u32ox3 && _xdc_._u32ox3( {
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vellore",
+               "short_name" : "Vellore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vellore",
+               "short_name" : "Vellore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tamil Nadu",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vellore, Tamil Nadu, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.0018815,
+                  "lng" : 79.1967487
+               },
+               "southwest" : {
+                  "lat" : 12.796736,
+                  "lng" : 79.039936
+               }
+            },
+            "location" : {
+               "lat" : 12.9165167,
+               "lng" : 79.13249859999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.0018815,
+                  "lng" : 79.1967487
+               },
+               "southwest" : {
+                  "lat" : 12.796736,
+                  "lng" : 79.039936
+               }
+            }
+         },
+         "place_id" : "ChIJ-4-mH-Y4rTsRXismfZGm3b4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+ )
